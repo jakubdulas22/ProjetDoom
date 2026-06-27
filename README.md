@@ -8,3 +8,4 @@ This is a copy of the ID Software Doom source code created to play around with a
 - 💻 Understand programming concepts used in game development
 - 🔧 Experiment with and modify the source code
 - 📚 Educational project for coding practice
+- 🎹 Just make the game better for the modern generation
